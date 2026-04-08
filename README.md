@@ -56,6 +56,7 @@ Adults with ADHD have impaired working memory — the brain's temporary holding 
 - [TickTick](https://ticktick.com/) - Built-in Pomodoro timer and habit tracker. Less likely to become a task graveyard because the timer creates urgency.
 - [Things 3](https://culturedcode.com/things/) - Beautiful, opinionated design. "Today" view forces daily prioritization. Apple-only.
 - [Sunsama](https://sunsama.com/) - Daily planning ritual that pulls tasks from other tools. The guided "shutdown" routine helps ADHD brains actually stop working.
+- [TAMSIV](https://www.tamsiv.com) - Voice-first AI task manager. Eliminates input friction by letting you talk instead of type. AI creates tasks, memos, and calendar events from conversation. Gamification (12 levels, badges, streaks, daily challenges) provides the dopamine feedback loop. Free on Android.
 
 ### The ADHD App Graveyard Problem
 
