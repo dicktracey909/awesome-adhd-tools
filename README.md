@@ -54,6 +54,7 @@ Adults with ADHD have impaired working memory — the brain's temporary holding 
 
 - [Todoist](https://todoist.com/) - Clean, fast, cross-platform. Works well for ADHD if you keep it simple (single project, no nested sub-tasks). Fails when it becomes a graveyard of overdue tasks. [Honest ADHD review →](https://jotbud.com/blog/todoist-adhd)
 - [TickTick](https://ticktick.com/) - Built-in Pomodoro timer and habit tracker. Less likely to become a task graveyard because the timer creates urgency.
+- [Super Productivity](https://super-productivity.com/) - Open-source task manager and time tracker with Pomodoro, timeboxing, break reminders, and a procrastination helper. Useful for people who need external structure, without requiring an account or cloud sync.
 - [Things 3](https://culturedcode.com/things/) - Beautiful, opinionated design. "Today" view forces daily prioritization. Apple-only.
 - [Sunsama](https://sunsama.com/) - Daily planning ritual that pulls tasks from other tools. The guided "shutdown" routine helps ADHD brains actually stop working.
 
