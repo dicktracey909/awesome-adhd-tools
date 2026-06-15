@@ -84,6 +84,7 @@ Time blindness is one of ADHD's most disruptive symptoms — the inability to fe
 
 - [Time Timer](https://www.timetimer.com/) - Visual countdown showing time as a shrinking colored disk. Makes time visible.
 - [Due](https://www.dueapp.com/) - Nagging reminders that repeat every few minutes until you act. Sounds annoying. Works brilliantly for ADHD.
+- [FocusNest](https://alexeysamosadov.github.io/focusnest/) - Free, no-account focus app where the time visibly shrinks as a big ring and only one task shows at a time to kill overwhelm. Runs entirely in your browser, nothing is uploaded, works offline.
 
 ---
 
