@@ -108,6 +108,7 @@ Body doubling = working alongside another person. The presence of another person
 - [Flow Club](https://www.flow.club/) - Group coworking sessions with hosts. More structured than Focusmate.
 - [FLOWN](https://www.flown.com/) - Deep work sessions with facilitators. Premium but high quality.
 - [Caves](https://caves.land/) - Discord-based coworking. Free, community-run.
+- [Dopastep](https://dopastep.com/) - Drop-in focus rooms, no camera and no booking. Free, and splits the task you're avoiding into 2-minute steps.
 
 ---
 
