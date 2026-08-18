@@ -144,6 +144,7 @@ Nearly all adults with ADHD experience RSD — intense emotional pain from perce
 ### Diagnostic & Assessment
 
 - [ASRS v1.1 Screener](https://www.hcp.med.harvard.edu/ncs/asrs.php) - WHO Adult ADHD Self-Report Scale. Free screening tool (not a diagnosis).
+- [Masked But Aware AuDHD Test](https://www.maskedbutaware.nl/en/tools/audhd-test) - Free 28-question reflection tool that separates ADHD-related patterns from autistic patterns and areas of conflict. It is not a validated diagnostic test, requires no account, and keeps answers in the browser.
 - [ADHDTest.ai](https://www.adhdtest.ai/) - AI-powered screening questionnaire.
 - [Psychology Today Directory](https://www.psychologytoday.com/us/therapists/adhd) - Find ADHD-specialized therapists.
 
