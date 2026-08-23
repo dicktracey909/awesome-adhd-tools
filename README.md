@@ -77,6 +77,7 @@ The average ADHD adult has tried 5+ productivity apps. The pattern: excited down
 - [Focusmate](https://www.focusmate.com/) - Video body doubling sessions with strangers. Book a 25/50-minute session and work alongside someone. Surprisingly effective for ADHD.
 - [Pomodoro Timer](https://pomofocus.io/) - Simple 25/5 timer. The Pomodoro technique works for ADHD because it makes the work feel finite.
 - [Flow](https://flowapp.info/) - Pomodoro timer for Mac with menu bar integration.
+- [Atomic Productivity](https://atomicproductivity.com/) - Suite of 35+ free browser tools designed for ADHD brains: pomodoro timer with ambient soundscapes, visual timers for time blindness, body-double timer, energy check-in and task breakdown. No signup required.
 
 ### Time Blindness Tools
 
