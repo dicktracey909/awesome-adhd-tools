@@ -108,6 +108,7 @@ Body doubling = working alongside another person. The presence of another person
 - [Flow Club](https://www.flow.club/) - Group coworking sessions with hosts. More structured than Focusmate.
 - [FLOWN](https://www.flown.com/) - Deep work sessions with facilitators. Premium but high quality.
 - [Caves](https://caves.land/) - Discord-based coworking. Free, community-run.
+- [FocusSea](https://focus-sea.com/) – Free virtual coworking. 25 minute video sessions with a matched stranger, new slots every 15 minutes, so you rarely wait more than a few minutes to start. No account needed, which removes the sign up friction that stops a lot of ADHD users at the door. Weighted hours score each session by minutes times your own focus rating, so a distracted hour does not read like a deep one.
 
 ---
 
