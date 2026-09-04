@@ -45,6 +45,7 @@ Adults with ADHD have impaired working memory — the brain's temporary holding 
 ### ADHD-First Design
 
 - [Goblin Tools](https://goblin.tools/) - AI-powered task breakdown. Give it "clean the kitchen" and it returns 12 specific steps. Magic Goblin breaks paralysis by making tasks concrete.
+- [Focuh](https://www.focuh.com) - Free ADHD Mac/web todo list and week planner with a focus timer and system-wide website/app blocking. Signed and notarized; no subscription.
 - [Tiimo](https://www.tiimo.dk/) - Visual daily planner built for ADHD and autism. Color-coded timelines instead of text lists.
 - [Llama Life](https://llamalife.co/) - Time-boxed task list with a visible countdown. Creates urgency without anxiety.
 - [Structured](https://structured.app/) - Visual time blocking with a timeline view. See your whole day at a glance.
