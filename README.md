@@ -106,6 +106,7 @@ Body doubling = working alongside another person. The presence of another person
 
 - [Focusmate](https://www.focusmate.com/) - Virtual body doubling. 25 or 50-minute video sessions with matched partners.
 - [Flow Club](https://www.flow.club/) - Group coworking sessions with hosts. More structured than Focusmate.
+- [Deskmate](https://swanum.com/body-doubling/) - Free body doubling with no camera or strangers: a calm on-screen companion works beside you and waits when you switch tabs. Runs in the browser, no sign-up.
 - [FLOWN](https://www.flown.com/) - Deep work sessions with facilitators. Premium but high quality.
 - [Caves](https://caves.land/) - Discord-based coworking. Free, community-run.
 
