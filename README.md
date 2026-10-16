@@ -49,6 +49,7 @@ Adults with ADHD have impaired working memory — the brain's temporary holding 
 - [Llama Life](https://llamalife.co/) - Time-boxed task list with a visible countdown. Creates urgency without anxiety.
 - [Structured](https://structured.app/) - Visual time blocking with a timeline view. See your whole day at a glance.
 - [Routinery](https://routinery.app/) - Step-by-step routine runner. Turns "morning routine" into a guided sequence with timers for each step.
+- [The Undecider](https://undecider-app.vercel.app) - A decision wheel for ADHD decision paralysis. Put your options on a wheel and spin until it lands on one you agree with — reacting to an answer is easier than generating one, and a "wrong" landing tells you what you actually wanted. Free in the browser; optional paid wheel packs.
 
 ### General Task Managers (ADHD Considerations)
 
