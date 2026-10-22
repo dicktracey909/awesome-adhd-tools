@@ -93,6 +93,7 @@ Time blindness is one of ADHD's most disruptive symptoms — the inability to fe
 - [Finch](https://finchcare.com/) - Self-care through caring for a virtual pet. Low-pressure habit building. Celebrates small wins.
 - [Habitica](https://habitica.com/) - Gamified habits — your tasks are RPG quests. Works for ADHD brains motivated by novelty and rewards.
 - [Streaks](https://streaksapp.com/) - Simple, visual. Maximum 12 habits. The constraint prevents the ADHD tendency to over-commit.
+- [Open Habit](https://getopenhabit.com/) - Free, open-source habit tracker for iPhone. Check in from a Home Screen widget without opening the app. Missed days stay blank instead of being marked as failures.
 
 ### Why Habits Are Harder with ADHD
 
