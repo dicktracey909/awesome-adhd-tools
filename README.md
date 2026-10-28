@@ -74,6 +74,7 @@ The average ADHD adult has tried 5+ productivity apps. The pattern: excited down
 ### Focus Timers
 
 - [Forest](https://www.forestapp.cc/) - Plant a virtual tree, don't touch your phone until it grows. Gamified focus timer.
+- [Ripple](https://ripplefocus.github.io/en/) - Free Android app blocker built around impulse control. Any attempt to loosen a rule starts a 15-minute cooldown, which gives the urge time to pass. It can block only Shorts and Reels inside YouTube and Instagram, and it resists being uninstalled during focus hours.
 - [Focusmate](https://www.focusmate.com/) - Video body doubling sessions with strangers. Book a 25/50-minute session and work alongside someone. Surprisingly effective for ADHD.
 - [Pomodoro Timer](https://pomofocus.io/) - Simple 25/5 timer. The Pomodoro technique works for ADHD because it makes the work feel finite.
 - [Flow](https://flowapp.info/) - Pomodoro timer for Mac with menu bar integration.
